@@ -1,2 +1,2 @@
 # Import-data-using-xml
-Import products using xml which is stored in pub/media/import
+This is my first git repository Import products using xml which is stored in pub/media/import.
